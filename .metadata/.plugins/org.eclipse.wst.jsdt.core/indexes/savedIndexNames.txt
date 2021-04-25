@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\GadgetBadget-Systems\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+247693082.index
+845215728.index
+970878772.index
+2096645832.index
+3630797516.index
